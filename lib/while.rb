@@ -6,8 +6,6 @@ def using_while
 	puts "Wingardium Leviosa"
 	
 	
-	
-	
   #your code here
   
   # while that will continue to puts "Wingardium Leviosa" when it's less than 10 
