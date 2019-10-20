@@ -2,7 +2,7 @@ def using_while
   levitation_force = 10 
 	
 	while using_while < 10 
-	puts 
+	using_while += 1 
 	
 	
 	
