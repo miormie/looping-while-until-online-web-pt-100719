@@ -13,4 +13,4 @@ def using_while
  end  
 end
 
-puts "Levitation force is #{levitation_force}!"
+puts "Levitation force is #{using_while}!"
