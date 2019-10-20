@@ -1,6 +1,9 @@
 def using_until
   levitation_force = 6
-  #your code here
+  #your code here # levitation force is =10 
+   
+  until levitation_force 
+   
     
 end
 
