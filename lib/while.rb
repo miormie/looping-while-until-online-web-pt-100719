@@ -10,7 +10,7 @@ def using_while
   
   # while that will continue to puts "Wingardium Leviosa" when it's less than 10 
   # increment levitation by 1 
-  
+ end  
 end
 
 
